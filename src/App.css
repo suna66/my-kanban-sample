@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  display: flex;
+}
+
+.Section {
+  display: flex;
+  box-sizing: border-box;
+  width: 45%;
+  max-width: 400px;
+  min-width: 240px;
+  height: 200vh;
+  margin: auto;
+}

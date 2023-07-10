@@ -1,0 +1,21 @@
+.item {
+    box-sizing: border-box;
+    /* display: flex; */
+    background-color: #ffffff;
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+    min-height: 30px;
+    margin: auto;
+}
+  
+.contents {
+    margin-left: 1px;
+    overflow: auto;
+    overflow-wrap: anywhere;
+    text-align: left;
+}
+
+.button {
+    text-align: right;
+}
+  
